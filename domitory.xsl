@@ -68,7 +68,7 @@
                 <xsl:for-each select="Residence">
                     <xsl:sort select="@CheckIn" order="descending"/>
                     <p>
-                        Корпус <xsl:value-of select="@Building"/>, кімн. <xsl:value-of select="@Room"/>:
+                        Корпус <xsl:value-of select="@Building"/>, кімната <xsl:value-of select="@Room"/>:
                         <xsl:value-of select="@CheckIn"/> –
                         <xsl:choose>
                             <xsl:when test="@CheckOut">
