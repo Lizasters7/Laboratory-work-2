@@ -6,13 +6,6 @@
         <html>
             <head>
                 <title>Гуртожиток</title>
-                <style>
-                    body { font-family: Segoe UI, Arial, sans-serif; margin: 16px; }
-                    table { border-collapse: collapse; }
-                    th, td { border: 1px solid #999; padding: 4px 8px; vertical-align: top; }
-                    th { background: #e8eef7; }
-                    p { margin: 0 0 4px 0; }
-                </style>
             </head>
             <body>
                 <h2>
@@ -21,7 +14,7 @@
                 <p>
                     Усього студентів: <xsl:value-of select="count(Student)"/>
                 </p>
-                <table>
+                <table border="1" cellpadding="4">
                     <tr>
                         <th>ПІБ</th>
                         <th>Факультет</th>
