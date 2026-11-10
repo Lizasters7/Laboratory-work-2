@@ -1,4 +1,4 @@
-﻿namespace Domitory
+﻿namespace Dormitory
 {
     public partial class AppShell : Shell
     {

@@ -5,6 +5,7 @@
              Title="Гуртожиток — робота з XML">
 
     <Grid ColumnDefinitions="340,*" Padding="12" ColumnSpacing="12">
+
         <ScrollView Grid.Column="0">
             <VerticalStackLayout Spacing="6">
 

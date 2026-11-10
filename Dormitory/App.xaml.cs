@@ -1,6 +1,5 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-
-namespace Domitory
+namespace Dormitory
 {
     public partial class App : Application
     {

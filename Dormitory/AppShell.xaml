@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <Shell
-    x:Class="Domitory.AppShell"
+    x:Class="Dormitory.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    xmlns:local="clr-namespace:Domitory"
+    xmlns:local="clr-namespace:Dormitory"
     Title="Domitory">
 
     <ShellContent

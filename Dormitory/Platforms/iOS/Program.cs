@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace Domitory
+namespace Dormitory
 {
     public class Program
     {

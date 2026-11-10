@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dormitory Name="Результати пошуку">
+  <Student FullName="Іваненко Іван Іванович" Faculty="Факультет комп'ютерних наук та кібернетики" Specialty="Комп'ютерні науки" Course="2" Group="К-24">
+    <Residence Building="6" Room="312" CheckIn="2025-09-01" CheckOut="2026-06-30" />
+    <Residence Building="6" Room="415" CheckIn="2026-09-01" />
+  </Student>
+  <Student FullName="Петренко Олена Василівна" Faculty="Факультет комп'ютерних наук та кібернетики" Specialty="Прикладна математика" Course="3" Group="К-35" Benefit="Сирота">
+    <Residence Building="6" Room="208" CheckIn="2024-09-01" />
+  </Student>
+  <Student FullName="Бондар Дмитро Сергійович" Faculty="Факультет комп'ютерних наук та кібернетики" Specialty="Інженерія програмного забезпечення" Course="2" Group="К-23" Benefit="Учасник бойових дій" Phone="+380509998877">
+    <Residence Building="6" Room="312" CheckIn="2025-09-01" />
+  </Student>
+  <Student FullName="Олійник Вікторія Андріївна" Faculty="Факультет комп'ютерних наук та кібернетики" Specialty="Системний аналіз" Course="4" Benefit="Дитина з багатодітної сім'ї">
+    <Residence Building="6" Room="208" CheckIn="2023-09-01" CheckOut="2024-06-30" />
+    <Residence Building="6" Room="210" CheckIn="2024-09-01" />
+  </Student>
+</Dormitory>

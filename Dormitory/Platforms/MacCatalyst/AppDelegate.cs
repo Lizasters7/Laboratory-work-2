@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace Domitory
+namespace Dormitory
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate
